@@ -24,3 +24,4 @@ install_package "automake"
 # Install tools
 install_tool "vscode.sh"
 install_tool "bamboo_ibus.sh"
+install_tool "edge.sh"
