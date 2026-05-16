@@ -1,11 +1,10 @@
-# Installation script
+#!/bin/bash
 
 # Author: phatnt
 # Description: Install necessary packages and tools for development
 # Created: 2024-06-01
 
 source scripts/common/common.sh
-
 
 # Check sudo
 check_sudo
@@ -21,3 +20,7 @@ install_package "git"
 install_package "checkinstall"
 install_package "pkg-config"
 install_package "automake"
+
+# Install tools
+install_tool "vscode.sh"
+install_tool "bamboo_ibus.sh"
