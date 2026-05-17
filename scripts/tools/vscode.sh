@@ -3,7 +3,7 @@
 # Author: phatnt
 # Description: Install Visual Studio Code
 # Reference: https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-20-04/
-# Created: 2024-06-01
+# Created: 2026-May-16
 
 
 install_vscode () {

@@ -2,7 +2,7 @@
 
 # Author: phatnt
 # Description: Common functions and variables for scripts
-# Created: 2024-06-01
+# Created: 2026-May-16
 
 ROOT_FOLDER=$(cd $(dirname "${BASH_SOURCE[0]}")/../.. && pwd)
 SCRIPTS_FOLDER="$ROOT_FOLDER/scripts"

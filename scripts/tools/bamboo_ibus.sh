@@ -3,6 +3,7 @@
 # Author: phatnt
 # Description: Install Bamboo IBus input method
 # Reference: https://github.com/BambooEngine/ibus-bamboo
+# Created: 2026-May-16
 
 install_ibus_bamboo () {
     echo -e "\n" | sudo add-apt-repository ppa:bamboo-engine/ibus-bamboo

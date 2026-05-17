@@ -2,7 +2,7 @@
 
 # Author: phatnt
 # Description: Activate Bamboo IBus input method
-# Created: 2024-06-01
+# Created: 2026-May-16
 
 export $(dbus-launch)
 killall -9 ibus-daemon

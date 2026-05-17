@@ -2,7 +2,7 @@
 
 # Author: phatnt
 # Description: Install necessary packages and tools for development
-# Created: 2024-06-01
+# Created: 2026-May-16
 
 source scripts/common/common.sh
 
